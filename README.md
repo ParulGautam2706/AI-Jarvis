@@ -56,8 +56,11 @@ Jarvis/
 
 ## 🙋‍♂️ Author
 
-Santosh Gautam
+**Santosh Gautam**
+GitHub: https://github.com/ParulGautam2706
 
+**Sahil Kaushik**
+GitHub: https://github.com/sahilkaushik27
 ---
 
 ## ⭐ Support
