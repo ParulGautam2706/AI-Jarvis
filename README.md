@@ -56,7 +56,7 @@ Jarvis/
 
 ## 🙋‍♂️ Author
 
-<<<<<<< HEAD
+Sahil Kaushik
 Santosh Gautam
 
 =======
@@ -65,13 +65,13 @@ GitHub: https://github.com/ParulGautam2706
 
 **Sahil Kaushik**
 GitHub: https://github.com/sahilkaushik27
->>>>>>> e617b3ab6380f03515ad37e4ad3ccd7256cc4d4f
+
 ---
 
 ## ⭐ Support
 
-<<<<<<< HEAD
+
 If you like this project, give it a ⭐ on GitHub!
+
 =======
-If you like this project, give it a ⭐ on GitHub!
->>>>>>> e617b3ab6380f03515ad37e4ad3ccd7256cc4d4f
+
